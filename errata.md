@@ -1,4 +1,4 @@
-Errata
+Errata of Modelling Computing Systems (Moller & Struth)
 ======
 
 1.12.3
