@@ -1,22 +1,20 @@
 Errata of Modelling Computing Systems (Moller & Struth)
 ======
 
-1.12.3
+Solution 1.12.3 (p. 408)
 -------
-(answer) the root of the tree should be ∧ instead of ∨
 
-1.26
+the root of the tree should be ∧ instead of ∨
+
+Solution 1.26 (p. 414)
 -----
-
-(answer)
 
 "However, the formulae p and q are equivalent, ...", this should be "However,
 the formulae p and r are equivalent, ..."
 
-1.27.1
+Solution 1.27.1 (p. 415)
 -------
-
-(answer)
+There are two mistakes:
 
 * When the Commutativity rule is applied, ∨ is accidentally changed to ∧
 * The last rule should be the _Contradiction_ law instead of _Tautology_
@@ -30,9 +28,8 @@ It should be:
 ```
 
 
-2.28
+Solution 2.28 (p. 420)
 -------
-(answer)
 
 The Commutative step mistakenly introduces ∩ which should be ∪. The last two steps should be
 
@@ -42,4 +39,16 @@ The Commutative step mistakenly introduces ∩ which should be ∪. The last two
   = A ∩ B        (Empty set law)
 ```
 
+
+
+Example 3.14 (p.98)
+------------
+
+The third bullet states
+
+> x = bc
+
+Which should be
+
+> z = bc
 
