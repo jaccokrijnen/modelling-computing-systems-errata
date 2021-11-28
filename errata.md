@@ -40,6 +40,11 @@ The Commutative step mistakenly introduces ∩ which should be ∪. The last two
 ```
 
 
+Example 2.17 (p.71)
+------------
+
+The first sentence states that Amanda invites **six** friends to her birthday party. This should be **five** friends.
+
 
 Example 3.14 (p.98)
 ------------
