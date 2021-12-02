@@ -57,3 +57,9 @@ Which should be
 
 > z = bc
 
+Example 4.10 (p.121-p122)
+------------
+
+The answer to sub-question 2b could also be: 
+
+> Ǝx ¬(Tail(x) ∧ Fur(x))
