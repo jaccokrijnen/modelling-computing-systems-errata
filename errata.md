@@ -57,3 +57,7 @@ Which should be
 
 > z = bc
 
+
+Definition 7.11 (p. 191)
+----------------
+"anytisymmetric" is a typo, it should of course be "antisymmetric"
