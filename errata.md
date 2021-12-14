@@ -61,3 +61,10 @@ Which should be
 Definition 7.11 (p. 191)
 ----------------
 "anytisymmetric" is a typo, it should of course be "antisymmetric"
+
+
+Solution 8.10 (p.443)
+--------------
+The general solution is
+
+fₙ = fₙ₋₁ + fₙ₋₂
