@@ -3,8 +3,9 @@ Errata of Modelling Computing Systems (Moller & Struth)
 
 Solution 1.12.3 (p. 408)
 -------
-
-the root of the tree should be ∧ instead of ∨
+There are two mistakes:
+* the root of the tree should be ∧ instead of ∨
+* the right sub-tree should be P instead of Q
 
 Solution 1.26 (p. 414)
 -----
