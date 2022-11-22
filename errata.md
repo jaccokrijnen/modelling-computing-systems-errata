@@ -29,6 +29,12 @@ It should be:
 ```
 
 
+Example 2.17 (p.71)
+------------
+
+The first sentence states that Amanda invites **six** friends to her birthday party. This should be **five** friends.
+
+
 Solution 2.28 (p. 420)
 -------
 
@@ -40,12 +46,11 @@ The Commutative step mistakenly introduces ∩ which should be ∪. The last two
   = A ∩ B        (Empty set law)
 ```
 
+Exercise 2.30.2
+---
+The subformula $P \Leftrightarrow Q$ should have parentheses around it, so the complete formula should be:
 
-Example 2.17 (p.71)
-------------
-
-The first sentence states that Amanda invites **six** friends to her birthday party. This should be **five** friends.
-
+$(P \Leftrightarrow Q) ~ \Leftrightarrow ~ (P \Rightarrow Q) \wedge (Q \Rightarrow P)$
 
 Example 3.14 (p.98)
 ------------
