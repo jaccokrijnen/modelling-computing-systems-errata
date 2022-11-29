@@ -63,6 +63,22 @@ Which should be
 
 > z = bc
 
+Solution 4.7.2
+---
+
+Remember that $\forall$ and $\exists$ bind stronger than other logical connectives when there are no parentheses. So the given solution actually has a free variable, written here in bold:
+
+$\forall x ~ (\exists y ~ Mother(x, y) \Rightarrow Parent(x, \textbf{y}) \wedge Female(x))$
+
+Instead, one correct solution is:
+
+$\forall x ~ (\exists y ~ Mother(x, y) \Rightarrow \mathbf{\exists y} Parent(x, y) \wedge Female(x))$
+
+Note that the following formula is not a good answer to the question:
+
+$\forall x ~ (\exists y ~ (Mother(x, y) \Rightarrow Parent(x, y) \wedge Female(x)))$
+
+Why? It states that for every person $x$, there exists a person $y$, such that the implication is true. That is true: for any person $x$, you can choose $y$ to be that same person, and the implication will hold (a person can never be their own mother). However, the sentence does not really express the intended property about mothers anymore.
 
 Definition 7.11 (p. 191)
 ----------------
