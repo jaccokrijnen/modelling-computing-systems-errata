@@ -80,6 +80,12 @@ $\forall x ~ (\exists y ~ (Mother(x, y) \Rightarrow Parent(x, y) \wedge Female(x
 
 Why? It states that for every person $x$, there exists a person $y$, such that the implication is true. That is true: for any person $x$, you can choose $y$ to be that same person, and the implication will hold (a person can never be their own mother). However, the sentence does not really express the intended property about mothers anymore.
 
+Exercise 6.15
+----------------
+The exercise should be:
+
+> Prove that $A \cong B$ for any __countably infinite__ sets A and B.
+
 Example 7.8
 ----------------
 The definition of grandfather should be:
