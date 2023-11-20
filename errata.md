@@ -7,6 +7,9 @@ There are two mistakes:
 * the root of the tree should be ∧ instead of ∨
 * the right sub-tree should be P instead of Q
 
+### Solution 1.21 (p. 412)
+The last word of the solution should not read 'induction' but rather 'implication'.
+
 ### Solution 1.26 (p. 414)
 
 "However, the formulae p and q are equivalent, ...", this should be "However,
