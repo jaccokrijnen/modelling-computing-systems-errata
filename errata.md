@@ -1,6 +1,15 @@
 # Errata of Modelling Computing Systems (Moller & Struth)
 
 ## Chapter 1
+### Solution 1.16 (page 410)
+
+In the second part of the solution, to part 1) the text reads:
+
+'This can be expressed more succinctly as *p* = ...'
+
+Where it should read:
+
+'This can be expressed more succinctly as **q** = ...'
 
 ### Solution 1.12.3 (p. 408)
 There are two mistakes:
