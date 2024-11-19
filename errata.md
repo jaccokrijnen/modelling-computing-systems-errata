@@ -37,6 +37,11 @@ It should be:
 <=> (p ∧ q) ∨ false  (Commutativity)
 <=> p ∧ q            (Contradiction)
 ```
+### Solution 1.27.6 (p 415)
+
+In the second to last step (labelled *Distributivity*) the formula should read:
+
+(¬p ∨ r) ∧ (¬q ∨ r) 
 
 
 ## Chapter 2
