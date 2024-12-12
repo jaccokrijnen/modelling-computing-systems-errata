@@ -123,6 +123,9 @@ The definition of grandfather should be:
 
 $Grandfather = Father \circ Parent $
 
+### Exercise 7.9 
+
+The solutions again confuse the order of composition in the definition of Nephew and Uncle.
 
 ### Definition 7.11 (p. 191)
 "anytisymmetric" is a typo, it should of course be "antisymmetric"
