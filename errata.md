@@ -137,3 +137,13 @@ The solutions again confuse the order of composition in the definition of Nephew
 The general solution is
 
 $f_n = f_{n-1} + f_{n-2}$
+
+## Chapter 9
+
+### Solution for 9.12
+
+The solution states:
+
+"if (a, b) = (fn, fn+1) then (fn+1, fn+2) = (a+b, b)"
+
+This should be (b, a+b).
